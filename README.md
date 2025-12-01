@@ -1,16 +1,20 @@
-## Hi there 👋
+# I'm Akhil 
 
-<!--
-**AkhilV30/akhilv30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS and Math student with interests in AI, data, and software engineering.  
+I enjoy learning quickly, building meaningful projects, and working toward making an impact through technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+Here are a few things I've been working on:
+
+- **FishyLottery** – Android app for equitable event lotteries (Java, Firebase)  
+- **Sports Analytics Tools** – experimental models and data insights(Making some changes will be pushed soon)  
+
+
+More to come as I continue building and learning.
+
+## 📫 Connect with Me
+- **LinkedIn:** [akhilvishnubhotla](https://www.linkedin.com/in/akhilvishnubhotla/)  
+- **Email:** akhil.vishnubhotla2005@gmail.com  
+
