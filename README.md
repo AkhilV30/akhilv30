@@ -1,7 +1,7 @@
 # I'm Akhil 
 
 I'm a CS and Math student with interests in AI, data, and software engineering.  
-I enjoy learning quickly, building meaningful projects, and working toward making an impact.
+I enjoy learning quickly, building meaningful projects, and working towards making an impact.
 
 ---
 
