@@ -6,10 +6,6 @@ I enjoy learning quickly, building meaningful projects, and working towards maki
 ---
 
 ## 🚀 Projects
-Here are a few things I've been working on:
-
-- **FishyLottery** – Android app for equitable event lotteries (Java, Firebase)  
-- **Sports Analytics Tools** – experimental models and data insights(Making some changes will be pushed soon)  
 
 
 More to come as I continue building and learning.
