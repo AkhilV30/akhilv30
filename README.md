@@ -41,11 +41,11 @@ Real-time ML system using Kafka, PyTorch LSTMs, FastAPI, MLflow, and Grafana for
 End-to-end PySpark + BigQuery pipeline deployed with Terraform on GCP.
 
 ### Predictive Sports Analytics Platform
-Machine learning platform for NBA game prediction and betting analytics.
+Machine learning platform for NBA game prediction and analytics.
 
 ---
 
 ## Connect With Me
 
-- LinkedIn: linkedin.com/in/akhilvishnubhotla
-- Portfolio: akhilv.vercel.app
+- [LinkedIn](https://linkedin.com/in/akhilvishnubhotla)
+- [Portfolio](https://akhilv.vercel.app)
