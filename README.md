@@ -11,7 +11,7 @@ I’m interested in:
 
 Currently building:
 - Enterprise AI agents for financial/customer intelligence
-- Real-time ML systems
+- Real-time AI systems
 - End-to-end data pipelines
 
 ---
